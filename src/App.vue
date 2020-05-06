@@ -20,7 +20,7 @@ export default {
       tasks:[
         {id:1, title:"Learn HTML & CSS", completed: false},
         {id:2, title:"Learn Javascript", completed:true},
-        {id:3, title:"Learn a JS Framework", completed:false}
+        {id:3, title:"Learn a JS Framework", completed:true}
       ]
     }
   }
